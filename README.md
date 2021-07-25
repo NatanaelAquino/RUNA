@@ -1,2 +1,0 @@
-# RUNA
-Site de servidor 
